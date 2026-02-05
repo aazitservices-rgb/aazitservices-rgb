@@ -1,10 +1,10 @@
-👋 Muhammad Z.
+**👋 Muhammad Z.**
 
-Senior AI/ML Engineer | LLMs • AI Automation • Full-Stack (MERN)
+**Senior AI/ML Engineer | LLMs • AI Automation • Full-Stack (MERN)**
 
 I build production-ready AI systems—from LLM-powered applications to end-to-end full-stack products. My focus is on shipping scalable, reliable solutions that automate work and deliver real impact.
 
-🔧 Core Skills
+**🔧 Core Skills**
 
 LLMs & AI Systems: RAG, prompt engineering, fine-tuning, agents
 

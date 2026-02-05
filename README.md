@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Muhammad Z.
 
-<!--
-**aazitservices-rgb/aazitservices-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI/ML Engineer | LLMs • AI Automation • Full-Stack (MERN)
 
-Here are some ideas to get you started:
+I build production-ready AI systems—from LLM-powered applications to end-to-end full-stack products. My focus is on shipping scalable, reliable solutions that automate work and deliver real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Core Skills
+
+LLMs & AI Systems: RAG, prompt engineering, fine-tuning, agents
+
+AI Automation: workflow orchestration, tool-calling, integrations
+
+Backend: Node.js, Python (FastAPI), scalable APIs
+
+Frontend (MERN): React, Next.js, modern UI
+
+Infra: Docker, CI/CD, cloud, vector databases
+
+🚀 What You’ll Find Here
+
+LLM-powered apps & copilots
+
+AI automation pipelines
+
+Full-stack MERN projects
+
+Production-grade ML backends
